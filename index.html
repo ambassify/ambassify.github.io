@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {% for page in site.pages %}
+    {% if page.frontpage %}
+      {% if page.markdown %}
+        {{ page.content }}
+      {% else %}
+        {{ page.content | markdownify }}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+</div>

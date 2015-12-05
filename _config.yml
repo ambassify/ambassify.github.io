@@ -1,0 +1,12 @@
+# Site settings
+title: GitHub Project navigation
+email: npm@ambassify.com
+description: > # this means to ignore newlines until "baseurl:"
+  Useful links for everything GitHub related.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.ambassify.com" # the base hostname & protocol for your site
+twitter_username: ambassify
+github_username:  bubobox
+
+# Build settings
+markdown: kramdown
