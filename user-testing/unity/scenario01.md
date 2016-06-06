@@ -7,7 +7,7 @@ layout: default
 Try to complete the steps below both on mobile and on your laptop / desktop computer.
 
 ### Desktop
-- [ ] Use [invite link](https://app-7117.ambassify.com/#/auth/signup/ef04fe2c5c853cabca13441c65a719f88dd21309ef2414f04f0970873b632db91898) to sign up
+- [ ] Use the provided invite link to sign up
 - [ ] Log out of Unity and close the browser window
 - [ ] Now try to make your way back into the community.
 - [ ] View the first content item in the community
