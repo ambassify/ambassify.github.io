@@ -1,5 +1,7 @@
 ---
+layout: default
 ---
+
 ## Steps
 
 Try to complete the steps below both on mobile and on your laptop / desktop computer.
