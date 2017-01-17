@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.ambassify.com" # the base hostname & protocol for your site
 twitter_username: ambassify
-github_username:  bubobox
+github_username:  ambassify
 
 # Build settings
 markdown: kramdown
